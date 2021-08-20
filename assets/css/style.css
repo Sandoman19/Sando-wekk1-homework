@@ -14,7 +14,7 @@ a {
 }
 
 p {
-    color-adjust: white;
+    color: white;
     font-size: 16px;
 }
 
@@ -127,5 +127,9 @@ h4 {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: black;
+}
+
+.footer p {
     color: black;
 }
