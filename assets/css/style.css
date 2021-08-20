@@ -1,9 +1,11 @@
+/* Globel Styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;   
 }
 
+/* Element Styling */
 body {
     background-color: #d9dcd6;
 }
@@ -37,6 +39,7 @@ h4 {
     font-size: 20px;
 }
 
+/* Header class Styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -62,6 +65,7 @@ h4 {
     margin-left: 25px;
 }
 
+/* Hero class Styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -71,6 +75,7 @@ h4 {
     background-position: center;
 }
 
+/* content class Styling */
 .content {
     width: 75%;
     display: inline-block;
@@ -100,6 +105,7 @@ h4 {
     max-height: 200px;
 }
 
+/* Benefits class Styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -122,6 +128,7 @@ h4 {
     max-width: 150px;
 }
 
+/* footer class Styling */
 .footer {
     padding: 30px;
     clear: both;
